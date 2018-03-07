@@ -1,0 +1,8 @@
+C:\Users\akidw\Desktop\Spring 2018\CS 341\DivvyDailyRides\DivvyDailyRides\DivvyDailyRides\bin\Release\netcoreapp2.0\DivvyDailyRides.deps.json
+C:\Users\akidw\Desktop\Spring 2018\CS 341\DivvyDailyRides\DivvyDailyRides\DivvyDailyRides\bin\Release\netcoreapp2.0\DivvyDailyRides.runtimeconfig.json
+C:\Users\akidw\Desktop\Spring 2018\CS 341\DivvyDailyRides\DivvyDailyRides\DivvyDailyRides\bin\Release\netcoreapp2.0\DivvyDailyRides.runtimeconfig.dev.json
+C:\Users\akidw\Desktop\Spring 2018\CS 341\DivvyDailyRides\DivvyDailyRides\DivvyDailyRides\bin\Release\netcoreapp2.0\DivvyDailyRides.dll
+C:\Users\akidw\Desktop\Spring 2018\CS 341\DivvyDailyRides\DivvyDailyRides\DivvyDailyRides\bin\Release\netcoreapp2.0\DivvyDailyRides.pdb
+C:\Users\akidw\Desktop\Spring 2018\CS 341\DivvyDailyRides\DivvyDailyRides\DivvyDailyRides\obj\Release\netcoreapp2.0\DivvyDailyRides.fsprojResolveAssemblyReference.cache
+C:\Users\akidw\Desktop\Spring 2018\CS 341\DivvyDailyRides\DivvyDailyRides\DivvyDailyRides\obj\Release\netcoreapp2.0\DivvyDailyRides.dll
+C:\Users\akidw\Desktop\Spring 2018\CS 341\DivvyDailyRides\DivvyDailyRides\DivvyDailyRides\obj\Release\netcoreapp2.0\DivvyDailyRides.pdb
